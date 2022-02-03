@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@DQ_1_2_3
+@cinmeamax
 </i>"""    
     
     HELP_TEXT = """
