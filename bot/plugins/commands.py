@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('GROUP', url='https://t.me/AM_chats_2_0'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('CHANNEL 1', url ='https://t.me/cinmeafox')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('CHANNEL 2', url='https://t.me/cinmeamax')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
