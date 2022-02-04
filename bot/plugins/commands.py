@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN NOW', url="https://t.me/cinmeafox"
+                                    'JOIN NOW', url="https://t.me/AM_chats_2_0"
                                 )
                         ]
                     ]
